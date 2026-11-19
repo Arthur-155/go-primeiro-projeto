@@ -1,0 +1,6 @@
+fazer mais integrações com mais APIs pra acostumar com a linguagem
+fazer uma API pra salvar os registros no banco
+tentar tornar esse código mais legível principalmente em providers, tem muito código repetido
+procurar uma boa forma de organizar essas pastas, pior que pelo que vi quando estão no mesmo nível eu posso usar funções de 
+outros arquivos sem precisar importar, provavelmernt se eu criar novas pastas vou ter q fazer o import
+testar comentário q eu fiz em search linha 26
